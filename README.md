@@ -1,3 +1,9 @@
+# TartanHacks 2021 Bot
+
+A general bot to be used in helping manage the TartanHacks 2021 Discord server. The framework is forked from [hs_discord_bot](https://github.com/unicsmcr/hs_discord_bot), the original description of which is given below.
+
+---
+
 # Hacker Suite: Discord Bot
 
 ![Lint](https://github.com/unicsmcr/hs_discord_bot/workflows/Lint/badge.svg)
